@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortFolio_Dachez/static/css/main.28dc0cae.css",
+    "main.js": "/PortFolio_Dachez/static/js/main.600f0bd2.js",
+    "static/js/787.fb771931.chunk.js": "/PortFolio_Dachez/static/js/787.fb771931.chunk.js",
+    "static/media/Vichy Papeterie.pdf": "/PortFolio_Dachez/static/media/Vichy Papeterie.126adb30a68e2a256163.pdf",
+    "static/media/Allier_Test.jpg": "/PortFolio_Dachez/static/media/Allier_Test.e6fa0825963f193c2da2.jpg",
+    "static/media/ALLIER TESTS.pdf": "/PortFolio_Dachez/static/media/ALLIER TESTS.b312c6cdf3f8a95fb3d9.pdf",
+    "static/media/AMAP.pdf": "/PortFolio_Dachez/static/media/AMAP.8c5fa8a6138f4f28154d.pdf",
+    "static/media/portfolio.jpg": "/PortFolio_Dachez/static/media/portfolio.4bec63f9fd98f07603e0.jpg",
+    "static/media/Axereal.jpg": "/PortFolio_Dachez/static/media/Axereal.8c58e1591faee5e86107.jpg",
+    "static/media/SNCF.pdf": "/PortFolio_Dachez/static/media/SNCF.25e100f6552c45f4e0e5.pdf",
+    "static/media/musee.jpg": "/PortFolio_Dachez/static/media/musee.2166fc71de9793868458.jpg",
+    "static/media/chiffrement.jpg": "/PortFolio_Dachez/static/media/chiffrement.e6ab546c34c2545afe88.jpg",
+    "static/media/Recherche.jpg": "/PortFolio_Dachez/static/media/Recherche.51f31bcdc7756b1a2d16.jpg",
+    "static/media/Pecheur.jpg": "/PortFolio_Dachez/static/media/Pecheur.f23d13aea5d5049e2320.jpg",
+    "static/media/SNCF.jpg": "/PortFolio_Dachez/static/media/SNCF.5191705606c1bd544704.jpg",
+    "static/media/papeterie.jpg": "/PortFolio_Dachez/static/media/papeterie.e2ce42e61b2f2d139ee0.jpg",
+    "index.html": "/PortFolio_Dachez/index.html",
+    "main.28dc0cae.css.map": "/PortFolio_Dachez/static/css/main.28dc0cae.css.map",
+    "main.600f0bd2.js.map": "/PortFolio_Dachez/static/js/main.600f0bd2.js.map",
+    "787.fb771931.chunk.js.map": "/PortFolio_Dachez/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28dc0cae.css",
+    "static/js/main.600f0bd2.js"
+  ]
+}

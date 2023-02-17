@@ -46,10 +46,24 @@ function Experience() {
           </h3>
           <p> Chargé de faire la circulation</p>
         </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2021 - 2021"
-          iconStyle={{ background: "yellow", color: "#fff" }}
+          date="2020 - Maintenant"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<SchoolIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+          Lycée Albert Londres Cusset (03)
+          </h3>
+          <p>BTS SIO Spécialité SLAM (Solutions Logicielles et Applications Métier)</p>
+        </VerticalTimelineElement>
+
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2021 - 2022"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -62,7 +76,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -74,7 +88,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -83,17 +97,7 @@ function Experience() {
           <p> Chargé de faire la circulation</p>
         </VerticalTimelineElement>
 
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2020 - Maintenant"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-          <a href = "https://www.lycees-albert-londres.fr">Lycée Albert Londres Cusset (03)</a>
-          </h3>
-          <p>BTS SIO Spécialité SLAM (Solutions Logicielles et Applications Métier)</p>
-        </VerticalTimelineElement>
+
 
       </VerticalTimeline>
 

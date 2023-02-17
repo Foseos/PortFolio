@@ -30,7 +30,7 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              Java, .NET,
+              NodeJS, Java, .NET,
               MySQL, SQL
             </span>
           </li>

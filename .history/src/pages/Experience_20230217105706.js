@@ -34,7 +34,7 @@ function Experience() {
           <p> Bac S spécialité SI</p>
         </VerticalTimelineElement>
 
-        
+        <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2019 - 2019"
@@ -44,43 +44,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             Iron Man Vichy (03)
           </h3>
-          <p> Chargé de faire la circulation</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2021 - 2021"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Iron Man Vichy (03)
-          </h3>
-          <p> Chargé de faire la circulation</p>
-        </VerticalTimelineElement>
-
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Cottel (03)
-          </h3>
-          <p> Ouvrier Polyvalent</p>
-        </VerticalTimelineElement>
-        
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Iron Man Vichy (03)
-          </h3>
-          <p> Chargé de faire la circulation</p>
+          <p> Brevet des collèges</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -90,17 +54,11 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          <a href = "https://www.lycees-albert-londres.fr">Lycée Albert Londres Cusset (03)</a>
+          Lycée Albert Londres Cusset (03)
           </h3>
           <p>BTS SIO Spécialité SLAM (Solutions Logicielles et Applications Métier)</p>
         </VerticalTimelineElement>
-
       </VerticalTimeline>
-
-
-
-
-
     </div>
   );
 }

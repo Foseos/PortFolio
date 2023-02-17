@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.js";
 import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
@@ -10,7 +10,7 @@ import ProjectDisplay from "./pages/ProjectDisplay";
 function App() {
   return (
     <div className="App">
-      <Router basename="/PortFolio">
+      <Router>
   <Navbar />
   <Routes>
     <Route path="/" element={<Home />} />

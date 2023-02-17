@@ -46,42 +46,6 @@ function Experience() {
           </h3>
           <p> Chargé de faire la circulation</p>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2021 - 2021"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Iron Man Vichy (03)
-          </h3>
-          <p> Chargé de faire la circulation</p>
-        </VerticalTimelineElement>
-
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Cottel (03)
-          </h3>
-          <p> Ouvrier Polyvalent</p>
-        </VerticalTimelineElement>
-        
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2022 - 2022"
-          iconStyle={{ background: "yellow", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Iron Man Vichy (03)
-          </h3>
-          <p> Chargé de faire la circulation</p>
-        </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -94,6 +58,46 @@ function Experience() {
           </h3>
           <p>BTS SIO Spécialité SLAM (Solutions Logicielles et Applications Métier)</p>
         </VerticalTimelineElement>
+
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2021 - 2021"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Iron Man Vichy (03)
+          </h3>
+          <p> Chargé de faire la circulation</p>
+        </VerticalTimelineElement>
+
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2022 - 2022"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Cottel (03)
+          </h3>
+          <p> Ouvrier Polyvalent</p>
+        </VerticalTimelineElement>
+        
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2022 - 2022"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Iron Man Vichy (03)
+          </h3>
+          <p> Chargé de faire la circulation</p>
+        </VerticalTimelineElement>
+
+
 
       </VerticalTimeline>
 

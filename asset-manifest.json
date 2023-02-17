@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.28dc0cae.css",
-    "main.js": "/PortFolio/static/js/main.0912d772.js",
+    "main.js": "/PortFolio/static/js/main.20f40e9f.js",
     "static/js/787.fb771931.chunk.js": "/PortFolio/static/js/787.fb771931.chunk.js",
     "static/media/Vichy Papeterie.pdf": "/PortFolio/static/media/Vichy Papeterie.126adb30a68e2a256163.pdf",
     "static/media/Allier_Test.jpg": "/PortFolio/static/media/Allier_Test.e6fa0825963f193c2da2.jpg",
@@ -18,11 +18,11 @@
     "static/media/papeterie.jpg": "/PortFolio/static/media/papeterie.e2ce42e61b2f2d139ee0.jpg",
     "index.html": "/PortFolio/index.html",
     "main.28dc0cae.css.map": "/PortFolio/static/css/main.28dc0cae.css.map",
-    "main.0912d772.js.map": "/PortFolio/static/js/main.0912d772.js.map",
+    "main.20f40e9f.js.map": "/PortFolio/static/js/main.20f40e9f.js.map",
     "787.fb771931.chunk.js.map": "/PortFolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28dc0cae.css",
-    "static/js/main.0912d772.js"
+    "static/js/main.20f40e9f.js"
   ]
 }

@@ -13,7 +13,8 @@ import SNCF_PDF from "../assets/Mission_SNCF/SNCF.pdf"
 import AMAP_PDF from "../assets/Mission_AMAP/AMAP.pdf"
 import Papeterie_PDF from "../assets/Mission_Papeterie/Vichy Papeterie.pdf"
 import Allier_Test_PDF from "../assets/Mission_Allier_Test/ALLIER TESTS.pdf"
-
+import Film from "../assets/Film.jpg"
+import Mission_Axereal from "../assets/Mission Axereal/Mission Axéreal.pdf"
 
 export const ProjectList = [
   {
@@ -47,6 +48,12 @@ export const ProjectList = [
     name: "Axéréal élevage",
     image: Axereal,
     skills: "Bootstrap, HTML, CSS, Bash",
+    content:
+    <div id="center-button">
+      <button id="monBouton">
+        <a href={Mission_Axereal} target="_blank" id="lien">Plus D'informations</a>
+      </button>
+    </div>
   },
   {
     name: "Gestion des Contrats et Paysans/Mangeurs",
@@ -100,5 +107,33 @@ export const ProjectList = [
     name: "Recherche & Developement",
     image: Recherche_et_Dev,
     skills: "C#, ASP.NET, Razor",
+    content: 
+    <div id="center-button">
+      <button id="monBouton">
+        <a href="" target="_blank" id="lien">Plus D'informations</a>
+      </button>
+    </div>
+  },
+  {
+    name: "Musée des Celestins (Mobile)",
+    image: Musee,
+    skills: "Xamarin.Forms, C#",
+    content: 
+    <div id="center-button">
+      <button id="monBouton">
+        <a href="" target="_blank" id="lien">Plus D'informations</a>
+      </button>
+    </div>
+  },
+  {
+    name: "Recherche de Film (Mobile)",
+    image: Film,
+    skills: "Xamarin.Forms, Web service, C#",
+    content: 
+    <div id="center-button">
+      <button id="monBouton">
+        <a href="" target="_blank" id="lien">Plus D'informations</a>
+      </button>
+    </div>
   },
 ];

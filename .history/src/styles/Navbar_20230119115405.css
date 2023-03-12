@@ -56,18 +56,12 @@
 
 #monBoutonNav {
   background-color: #3e497a;
-  border-color: aliceblue;
   border-radius: 10px;
   font-size: 28px;
   padding: 20px;
   width: 400px;
   cursor: pointer;
-  text-decoration: none; 
-}
-
-.right-btn {
-  margin-left: auto;
-  margin-right: 15px;
+  text-decoration: none;
 }
 
 .center-buttonNav {

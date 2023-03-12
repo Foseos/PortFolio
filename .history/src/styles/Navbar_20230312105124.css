@@ -62,12 +62,12 @@
   padding: 20px;
   width: 400px;
   cursor: pointer;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .right-btn {
   margin-left: auto;
-  margin-right: 15px;
+  
 }
 
 .center-buttonNav {

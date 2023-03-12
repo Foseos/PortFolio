@@ -13,7 +13,6 @@ function Home() {
         <div className="prompt">
           <p>Etudiant en BTS SIO spécialité SLAM</p>
           <a href="https://www.linkedin.com/in/lucas-dachez-467244243"><LinkedInIcon /></a>
-          <a href="mailto:Lucas.Dachez@protonmail.com"><EmailIcon /></a>
           <a href="https://github.com/Foseos"><GithubIcon /></a>
         </div>
       </div>

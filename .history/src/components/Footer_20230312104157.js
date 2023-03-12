@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://www.linkedin.com/in/lucas-dachez-467244243"><LinkedInIcon /></a>
+      <a href="https://www.linkedin.com/in/lucas-dachez-467244243"><LinkedInIcon /></a>
       </div>
       <p> &copy; 2023 Lucas Dachez</p>
     </div>

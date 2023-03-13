@@ -24,7 +24,7 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <Link to="/"> Accueil </Link>
+        <Link to="/"> ccueil </Link>
         <Link to="/projects"> Projets </Link>
         <Link to="/experience"> Experience </Link>
         <div class="right-btn">

@@ -13,7 +13,7 @@ const TAB_DATA = [
         <li>PostgreSQL</li>
         <li>JavaScript</li>
         <li>React</li>
-        <li>PHP (En cours d'aprentissage)</li>
+        <li>PHP</li>
       </ul>
     ),
   },
@@ -56,7 +56,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">A Propos de Moi</h2>
           <p className="text-base lg:text-lg">
-            Je suis un jeune developpeur ayant comme parcours scolaire un BTS SIO spécialité SLAM étant passionné par les nouvelles technologie notament l'IA, la Cybersécurité ainsi que la création de site web.
+            Je suis un jeune developpeur ayant comme parcours scolaire un BTS SIO spécialité SLAM étant passionné par les nouvelles technologie notament l&apos;IA, la Cybersécurité ainsi que la création de site web.
             je vous propose ce PortFolio professionel.
           </p>
           <div className="flex flex-row justify-start mt-8">

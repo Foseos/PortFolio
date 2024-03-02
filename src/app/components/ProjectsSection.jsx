@@ -11,8 +11,8 @@ const projectsData = [
     description: "Mon PortFolio",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Foseos/PortFolio",
+    previewUrl: "https://www.portfoliodachez.fr/",
   },
 ];
 

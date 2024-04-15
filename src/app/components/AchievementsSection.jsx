@@ -17,11 +17,11 @@ const achievementsList = [
   {
     prefix: "Bac+",
     metric: "Année d'étude",
-    value: "2",
+    value: "3/4",
   },
   {
-    metric: "Année de Travail",
-    value: "0",
+    metric: "Immersions professionels",
+    value: "2",
   },
 ];
 

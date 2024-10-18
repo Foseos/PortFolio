@@ -51,7 +51,7 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          Voila mes réseau professionel
+          Voila mes réseaux professionels
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/Foseos">
